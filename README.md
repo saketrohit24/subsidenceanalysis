@@ -73,15 +73,16 @@ insar-subsidence-analysis/
 
 Open your terminal and run:
 
-
+```bash
 git clone https://github.com/yourusername/insar-subsidence-analysis.git
 cd insar-subsidence-analysis
-Set Up a Virtual Environment
+```
+
+### Set Up a Virtual Environment
 
 It is recommended to create a virtual environment to manage your Python dependencies:
 
-bash
-Copy
+```bash
 # Create a virtual environment using Python 3
 python3 -m venv venv
 
@@ -90,11 +91,17 @@ source venv/bin/activate
 
 # On Windows:
 venv\Scripts\activate
-Install Required Dependencies
+```
 
-If you have a requirements.txt file, install the dependencies with:
+### Install Required Dependencies
 
-bash
-Copy
+If you have a `requirements.txt` file (or if you decide to add one as your project evolves), install the dependencies:
+
+```bash
 pip install -r requirements.txt
-Note: If you don't have a requirements file yet, ensure you manually install the necessary packages such as Jupyter Notebook, pandas, numpy, matplotlib, and any other project-specific dependencies
+```
+
+Otherwise, ensure that you have the necessary packages installed (for example, Jupyter Notebook, pandas, numpy, matplotlib, etc.).
+```
+
+
