@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Build Status](https://img.shields.io/travis/yourusername/insar-subsidence-analysis.svg)](https://travis-ci.org/yourusername/insar-subsidence-analysis)
+
 
 > **Project Overview:**  
 > This project focuses on the analysis of land subsidence in California's Central Valley using InSAR (Interferometric Synthetic Aperture Radar) data. By applying advanced statistical methods—specifically Principal Component Analysis (PCA) and Independent Component Analysis (ICA)—the project separates subsidence signals into elastic and inelastic components, identifies artifacts, and ultimately provides calibrated data for groundwater models (e.g., C2VSim). Detailed scripts perform geospatial data preprocessing, multi-band GeoTIFF creation, time series visualization, and component decomposition.
