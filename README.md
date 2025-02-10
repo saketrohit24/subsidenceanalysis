@@ -1,4 +1,3 @@
-# subsidenceanalysis
 # InSAR-Based Subsidence Analysis & Component Decomposition
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
