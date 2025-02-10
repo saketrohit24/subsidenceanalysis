@@ -74,7 +74,7 @@ insar-subsidence-analysis/
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/yourusername/insar-subsidence-analysis.git
+git clone https://github.com/saketrohit24/insar-subsidence-analysis.git
 cd insar-subsidence-analysis
 ```
 
@@ -115,4 +115,4 @@ ICA Components Spatial Patterns:
 PCA Components:
 
 
-Note: Replace the placeholder image paths with actual images generated from your outputs.
+
