@@ -99,7 +99,7 @@ If you have a `requirements.txt` file (or if you decide to add one as your proje
 ```bash
 pip install -r requirements.txt
 ```
-##Examples
+## Examples
 Time Series Plot:
 
 
