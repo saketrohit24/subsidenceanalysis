@@ -66,5 +66,40 @@ insar-subsidence-analysis/
 ├── MyNotebook.ipynb
 └── README.md
 
+```markdown
+## Installation
 
+### Clone the Repository
 
+Open your terminal and run:
+
+```bash
+git clone https://github.com/yourusername/insar-subsidence-analysis.git
+cd insar-subsidence-analysis
+```
+
+### Set Up a Virtual Environment
+
+It is recommended to create a virtual environment to manage your Python dependencies:
+
+```bash
+# Create a virtual environment using Python 3
+python3 -m venv venv
+
+# Activate the virtual environment (macOS/Linux)
+source venv/bin/activate
+
+# On Windows:
+venv\Scripts\activate
+```
+
+### Install Required Dependencies
+
+If you have a `requirements.txt` file (or if you decide to add one as your project evolves), install the dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Otherwise, ensure that you have the necessary packages installed (for example, Jupyter Notebook, pandas, numpy, matplotlib, etc.).
+```
