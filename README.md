@@ -98,5 +98,18 @@ If you have a `requirements.txt` file (or if you decide to add one as your proje
 
 ```bash
 pip install -r requirements.txt
+```
+##Examples
+Time Series Plot:
 
 
+Spatial Distribution of Subsidence:
+
+
+ICA Components Spatial Patterns:
+
+
+PCA Components:
+
+
+Note: Replace the placeholder image paths with actual images generated from your outputs.
