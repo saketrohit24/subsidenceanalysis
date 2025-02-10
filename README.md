@@ -66,7 +66,7 @@ insar-subsidence-analysis/
 ├── MyNotebook.ipynb
 └── README.md
 
-```markdown
+
 ## Installation
 
 ### Clone the Repository
@@ -99,7 +99,4 @@ If you have a `requirements.txt` file (or if you decide to add one as your proje
 
 ```bash
 pip install -r requirements.txt
-```
 
-Otherwise, ensure that you have the necessary packages installed (for example, Jupyter Notebook, pandas, numpy, matplotlib, etc.).
-```
