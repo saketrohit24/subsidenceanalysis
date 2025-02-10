@@ -33,6 +33,8 @@ Subsidence—the gradual sinking of the ground—is a significant issue in Calif
 ---
 ## Dataset
 https://gis.water.ca.gov/arcgisimg/rest/services/SAR
+
+---
 ## Features
 
 - **Data Preprocessing:**  
@@ -64,7 +66,7 @@ insar-subsidence-analysis/
 ├── MyNotebook.ipynb
 └── README.md
 
-
+---
 ## Installation
 
 ### Clone the Repository
@@ -98,6 +100,8 @@ If you have a `requirements.txt` file (or if you decide to add one as your proje
 ```bash
 pip install -r requirements.txt
 ```
+---
+
 ## Examples
 Time Series Plot:
 
