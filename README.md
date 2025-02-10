@@ -63,20 +63,8 @@ Subsidence—the gradual sinking of the ground—is a significant issue in Calif
 
 ## Project Structure
 insar-subsidence-analysis/
-├── data/
-│   ├── raw/                     # Original InSAR TIFF files and KMZ polygon files
-│   └── processed/               # Processed, clipped TIFF files
-├── notebooks/                   # Jupyter notebooks for exploratory analysis and tutorials
-├── outputs/                     # Generated plots, CSV files, and processed results
-├── src/                         # Main source code for data processing and analysis
-│   ├── clip_rasters.py          # Script to extract polygons from KMZ and clip TIFF files
-│   ├── create_multiband.py      # Script to stack clipped rasters into a multi-band GeoTIFF
-│   ├── visualize_subsidence.py  # Scripts for time series and spatial visualizations
-│   ├── ica_analysis.py          # ICA routines to decompose subsidence signals
-│   └── pca_analysis.py          # PCA routines to extract dominant subsidence patterns
-├── tests/                       # Unit tests for key modules and functions
-├── requirements.txt             # Python dependencies
-├── README.md                    # Project documentation and usage instructions
-└── LICENSE                      # Project license (e.g., MIT)
+├── MyNotebook.ipynb
+└── README.md
+
 
 
