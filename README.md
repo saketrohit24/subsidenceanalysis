@@ -15,7 +15,6 @@
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
