@@ -12,14 +12,12 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Dataset](#dataset)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-- [Future Work](#future-work)
-- [Acknowledgements](#acknowledgements)
+- 
 
 ---
 
