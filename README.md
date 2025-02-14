@@ -77,8 +77,8 @@ insar-subsidence-analysis/
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/saketrohit24/insar-subsidence-analysis.git
-cd insar-subsidence-analysis
+git clone https://github.com/saketrohit24/isubsidenceanalysis.git
+cd subsidence-analysis
 ```
 
 ### Set Up a Virtual Environment
