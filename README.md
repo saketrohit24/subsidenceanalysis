@@ -16,7 +16,7 @@
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Results & Visualizations](#Results&Visualizations)
+- [Results&Visualizations](#Results&Visualizations)
 - [Contributing](#contributing)
   
 
