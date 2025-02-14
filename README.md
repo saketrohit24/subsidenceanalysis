@@ -17,6 +17,7 @@
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Visualizations](#Visualizations)
+- [Related Publications](#related-publications)
 - [Contributing](#contributing)
   
 
