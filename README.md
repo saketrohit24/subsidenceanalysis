@@ -19,6 +19,7 @@
 - [Visualizations](#Visualizations)
 - [Related Publications](#related-publications)
 - [Contributing](#contributing)
+- [References](#References)
   
 
 ---
@@ -143,4 +144,12 @@ How to Contribute?
 4. Submit a pull request with your improvements.
 - If you test a new technique, share your results, and I’d love to discuss them!
 - You can also use this code for your own work—just fork it and modify as needed.
+
+---
+## References
+
+- Hyvärinen, A., & Oja, E. (2000). Independent component analysis: algorithms and applications. *Neural Networks: The Official Journal of the International Neural Network Society, 13*(4-5), 411–430. [https://doi.org/10.1016/s0893-6080(00)00026-5](https://doi.org/10.1016/s0893-6080(00)00026-5)
+
+- Chaussard, E., & Farr, T. G. (2019). A new method for isolating elastic from inelastic deformation in aquifer systems: Application to the San Joaquin Valley, CA. *Geophysical Research Letters, 46*, 10800–10809. [https://doi.org/10.1029/2019GL084418](https://doi.org/10.1029/2019GL084418)
+
 
