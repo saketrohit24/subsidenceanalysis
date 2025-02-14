@@ -17,6 +17,7 @@
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Examples](#examples)
+  -[Contributing](#contributing)
   
 
 ---
