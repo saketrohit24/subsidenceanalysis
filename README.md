@@ -16,7 +16,7 @@
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Results & Visualizations](#Results&Visualizations)
+- [Visualizations](#Visualizations)
 - [Contributing](#contributing)
   
 
@@ -103,7 +103,7 @@ pip install -r requirements.txt
 ```
 ---
 
-## Results&Visualizations
+## Visualizations
 ICA Components::
 ![InSAR Analysis](https://github.com/saketrohit24/subsidenceanalysis/blob/main/images/1.png)
 
