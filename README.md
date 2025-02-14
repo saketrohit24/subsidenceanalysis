@@ -119,3 +119,8 @@ This analysis applies Principal Component Analysis (PCA) to InSAR-derived subsid
 
 PC1 captures 98% of total variance, primarily representing seasonal elastic deformation.
 
+ICA & PCA on C2VSim Simulated Subsidence :
+![InSAR Analysis](https://github.com/saketrohit24/subsidenceanalysis/blob/main/images/3.png)
+ICA decomposition does not show clear seasonal trends
+PCA results suggest that PC1 represents inelastic subsidence, capturing the primary deformation pattern over time.
+
