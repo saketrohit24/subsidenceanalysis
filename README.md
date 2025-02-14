@@ -103,13 +103,9 @@ pip install -r requirements.txt
 ---
 
 ## Examples
-Time Series Plot:
+ICA Components::
+![InSAR Analysis](https://github.com/saketrohit24/subsidenceanalysis/blob/main/images/1.png)
 
-
-Spatial Distribution of Subsidence:
-
-
-ICA Components Spatial Patterns:
 
 
 PCA Components:
