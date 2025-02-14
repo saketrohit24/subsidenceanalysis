@@ -106,7 +106,11 @@ pip install -r requirements.txt
 ICA Components::
 ![InSAR Analysis](https://github.com/saketrohit24/subsidenceanalysis/blob/main/images/1.png)
 
+This analysis applies Independent Component Analysis (ICA) to InSAR-derived subsidence data:
 
+IC1 captures seasonal deformation from groundwater pumping.
+IC2 may represent a multi-decadal trend in subsidence.
+IC3 closely matches inelastic subsidence, aligning with the Corcoran 'Subsidence Bowl.'
 
 PCA Components:
 
