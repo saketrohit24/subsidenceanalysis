@@ -110,5 +110,5 @@ ICA Components::
 
 PCA Components:
 
-[InSAR Analysis](https://github.com/saketrohit24/subsidenceanalysis/blob/main/images/2.png)
+![InSAR Analysis](https://github.com/saketrohit24/subsidenceanalysis/blob/main/images/2.png)
 
