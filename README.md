@@ -124,3 +124,15 @@ ICA & PCA on C2VSim Simulated Subsidence :
 ICA decomposition does not show clear seasonal trends
 PCA results suggest that PC1 represents inelastic subsidence, capturing the primary deformation pattern over time.
 
+---
+## Contributing 
+Contributions are welcome! This project applies statistical techniques for subsidence decomposition, but other approaches can also be explored.
+
+How to Contribute?
+1. Fork this repository and clone it.
+2. Create a new branch for your contributions.
+3. Enhance the methods (e.g., alternative decomposition techniques).
+4. Submit a pull request with your improvements.
+- If you test a new technique, share your results, and I’d love to discuss them!
+- You can also use this code for your own work—just fork it and modify as needed.
+
