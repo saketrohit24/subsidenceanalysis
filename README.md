@@ -115,4 +115,7 @@ IC3 closely matches inelastic subsidence, aligning with the Corcoran 'Subsidence
 PCA Components:
 
 ![InSAR Analysis](https://github.com/saketrohit24/subsidenceanalysis/blob/main/images/2.png)
+This analysis applies Principal Component Analysis (PCA) to InSAR-derived subsidence data:
+
+PC1 captures 98% of total variance, primarily representing seasonal elastic deformation.
 
