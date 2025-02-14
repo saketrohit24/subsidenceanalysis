@@ -126,6 +126,12 @@ ICA decomposition does not show clear seasonal trends
 PCA results suggest that PC1 represents inelastic subsidence, capturing the primary deformation pattern over time.
 
 ---
+## Related Publications
+This work was presented as a poster at AGU 
+- Decomposition of Inelastic and Elastic Components of Total Subsidence for Model Calibration Evaluation – [AGU Conference, 2024]
+- Link: https://bit.ly/subsidenceanalysis
+
+---
 ## Contributing 
 Contributions are welcome! This project applies statistical techniques for subsidence decomposition, but other approaches can also be explored.
 
