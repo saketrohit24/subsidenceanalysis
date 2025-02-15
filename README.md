@@ -150,6 +150,14 @@ How to Contribute?
 - You can also use this code for your own work—just fork it and modify as needed.
 
 ---
+## Future Work
+
+While this project decomposes subsidence into elastic and inelastic components, additional refinements and external factors could improve the analysis. Potential future directions include:
+
+- Incorporating Rainfall Data
+
+ Rainfall patterns can influence groundwater recharge, which may impact seasonal subsidence. Integrating precipitation data could help refine the separation between elastic and inelastic deformation.
+---
 ## References
 
 - Hyvärinen, A., & Oja, E. (2000). Independent component analysis: algorithms and applications. *Neural Networks: The Official Journal of the International Neural Network Society, 13*(4-5), 411–430. [https://doi.org/10.1016/s0893-6080(00)00026-5](https://doi.org/10.1016/s0893-6080(00)00026-5)
