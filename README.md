@@ -151,7 +151,7 @@ How to Contribute?
 
 ---
 ## Future Work
-While this project successfully subsidence into elastic and inelastic components, additional refinements and external factors could improve the analysis. Potential future directions include:
+While this project decomposes subsidence into elastic and inelastic components, additional refinements and external factors could improve the analysis. Potential future directions include:
 
 - **Incorporating Rainfall Data**  
   Rainfall patterns can influence groundwater recharge, which may impact seasonal subsidence. Integrating precipitation data could help refine the separation between elastic and inelastic deformation.
