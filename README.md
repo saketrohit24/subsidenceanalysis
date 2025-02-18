@@ -27,7 +27,7 @@
 ## Introduction
 
 Subsidence—the gradual sinking of the ground—is a significant issue in California's Central Valley, with over 30 feet of sinking recorded between 1925 and 1977 and additional loss observed from 1988 to 2018.
-![InSAR Analysis](https://github.com/saketrohit24/subsidenceanalysis/blob/main/images/5.png)
+![InSAR Analysis](https://github.com/saketrohit24/subsidenceanalysis/blob/main/images/9.png)
 
 This project addresses the following challenges:
 
